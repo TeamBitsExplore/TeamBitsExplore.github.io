@@ -117,7 +117,7 @@ footer {
 	
 }
 .blur {
-	background-image: url("../Images/chris-henry-ZaT1RghkxsE-unsplash.jpg");
+	background-image: url("./Images/chris-henry-ZaT1RghkxsE-unsplash.jpg");
 	background-repeat: no-repeat;
 	backdrop-filter: blur(8px);
 }
@@ -136,6 +136,10 @@ footer {
 }
 
 body {
-	background-image: url("../Images/chris-henry-ZaT1RghkxsE-unsplash.jpg"); /* Image from https://unsplash.com/photos/ZaT1RghkxsE */
+	background-image: url("./Images/chris-henry-ZaT1RghkxsE-unsplash.jpg"); /* Image from https://unsplash.com/photos/ZaT1RghkxsE */
 	background-size: 100%;
+}
+
+html {
+   min-width: 940px;
 }
