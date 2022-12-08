@@ -104,7 +104,7 @@ footer {
     background: white;
 }
 .mfooter {
-	position: fixed;
+	position: relative;
     padding: 20px 0px 0px 0px;
     bottom: 0;
     width: 100%;
