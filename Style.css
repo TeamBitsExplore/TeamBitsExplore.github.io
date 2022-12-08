@@ -134,6 +134,17 @@ footer {
 	margin-left: 210px;
 	margin-right: 210px;
 }
+.cities h1,h2,h3 {
+	color: black ;
+	text-shadow: 1px 0 3px white;
+}
+
+.Logo {
+	margin-left: 1200px;
+}
+.Logomain {
+	margin-left: 1430px;
+}
 
 body {
 	background-image: url("./Images/chris-henry-ZaT1RghkxsE-unsplash.jpg"); /* Image from https://unsplash.com/photos/ZaT1RghkxsE */
@@ -142,4 +153,11 @@ body {
 
 html {
    min-width: 940px;
+}
+
+table {
+	background-color: white;
+	padding: 10px 10px;
+	margin-left: 610px;
+	margin-right: 210px;
 }
