@@ -64,14 +64,14 @@ header {
 }
 
 .webnav li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
 }
 .webnav li a:hover {
-  background-color: #8A8A8A;
+	background-color: #8A8A8A;
 }
 
 .webnav li a.active {
@@ -136,14 +136,14 @@ footer {
 }
 .cities h1,h2,h3 {
 	color: black ;
-	text-shadow: 1px 0 3px white;
+	text-shadow: 1px 0px 5px white;
 }
 
 .Logo {
 	margin-left: 1200px;
 }
 .Logomain {
-	margin-left: 1430px;
+	margin-left: 1425px;
 }
 
 body {
@@ -155,9 +155,17 @@ html {
    min-width: 940px;
 }
 
-table {
+.quebec {
 	background-color: white;
 	padding: 10px 10px;
 	margin-left: 610px;
 	margin-right: 210px;
+}
+
+.alberta {
+	background-color: white;
+	padding: 10px 10px;
+	margin-left: 640px;
+	margin-right: 210px;
+	font-size: 20px;
 }
